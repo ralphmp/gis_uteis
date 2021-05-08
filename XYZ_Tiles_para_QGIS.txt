@@ -1,0 +1,35 @@
+ESRI streets
+https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}
+
+ESRI TOPO
+https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}
+
+ESRI World Hillshade
+http://services.arcgisonline.com/ArcGIS/rest/services/Elevation/World_Hillshade/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D
+
+Hybrid
+http://mt0.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}
+
+Mapy.cz
+https://mapserver.mapy.cz/turist-m/%7Bz%7D-%7Bx%7D-%7By%7D
+
+OpenStreetMap
+https://tile.openstreetmap.org/{z}/{x}/{y}.png
+
+OpenStreetMap Mapnick
+http://tile.openstreetmap.org/{z}/{x}/{y}.png
+
+OpenTOPOmap
+https://tile.opentopomap.org/{z}/{x}/{y}.png
+
+Roadmap
+http://mt0.google.com/vt/lyrs=r&hl=en&x={x}&y={y}&z={z}
+
+Satellite only
+http://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}
+
+Stamen Terrain
+http://a.tile.stamen.com/terrain/{z}/{x}/{y}.png
+
+Terrain
+http://mt0.google.com/vt/lyrs=p&hl=en&x={x}&y={y}&z={z}
